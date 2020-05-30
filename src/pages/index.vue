@@ -2,7 +2,7 @@
  * @Author: caoyp
  * @Date: 2020-03-15 17:11:59
  * @Last Modified by: caoyp
- * @Last Modified time: 2020-05-30 16:34:28
+ * @Last Modified time: 2020-05-30 17:59:55
  * @Description: Description
  * @Route: Route
  */
@@ -16,7 +16,7 @@
 export default {
     data() {
         return {
-            testData: 'jenkins自动化部署测试'
+            testData: 'jenkins自动化部署测试第一次'
         };
     }
 };
