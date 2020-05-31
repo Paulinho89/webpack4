@@ -2,7 +2,7 @@
  * @Author: caoyp
  * @Date: 2020-03-15 17:11:59
  * @Last Modified by: caoyp
- * @Last Modified time: 2020-05-31 12:01:42
+ * @Last Modified time: 2020-05-31 18:21:43
  * @Description: Description
  * @Route: Route
  */
@@ -16,7 +16,7 @@
 export default {
     data() {
         return {
-            testData: 'Welcome to jenkins自动化部署测试发送邮件'
+            testData: 'Welcome to jenkins自动化部署测试文档编写'
         };
     }
 };
