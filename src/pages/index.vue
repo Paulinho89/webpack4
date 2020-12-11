@@ -16,7 +16,7 @@
 export default {
     data() {
         return {
-            testData: 'Welcome to jenkins自动化部署测试11111'
+            testData: 'Welcome to jenkins自动化部署测试2222'
         };
     }
 };
